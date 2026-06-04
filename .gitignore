@@ -1,2 +1,4 @@
 .venv
 dataset
+01_tune_energy_model
+scr/*.keras
